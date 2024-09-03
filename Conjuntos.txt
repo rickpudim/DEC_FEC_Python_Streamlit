@@ -1,0 +1,79 @@
+Conjunto|Base|Regional|Área
+Alcântara|São Gonçalo|São Gonçalo|Sul
+Angra dos Reis|Angra dos Reis|Sul|Sul
+Araruama|Araruama|Lagos|Norte
+Areal|Petrópolis|Serrana|Sul
+Arraial do Cabo|Cabo Frio|Lagos|Norte
+Arsenal|São Gonçalo|São Gonçalo|Sul
+Augusto Vieira|Magé|Magé|Sul
+Bacaxá|Araruama|Lagos|Norte
+Barracão dos Mendes|Teresópolis|Serrana|Sul
+Bingen|Petrópolis|Serrana|Sul
+Bom Jardim|Cantagalo|Noroeste|Norte
+Búzios|Cabo Frio|Lagos|Norte
+Cabiúnas|Macaé|Macaé|Norte
+Cabo Frio|Cabo Frio|Lagos|Norte
+Cachoeira de Macacú|Magé|Magé|Sul
+Campos Elíseos|Magé|Magé|Sul
+Conceição de Macabú|Macaé|Macaé|Norte
+Cruzamento|Itaperuna|Noroeste|Norte
+Distribuidora de Campos|Campos|Campos|Norte
+Entroncamento Araruama|Araruama|Lagos|Norte
+Galo Branco|São Gonçalo|São Gonçalo|Sul
+Goitacazes|Campos|Campos|Norte
+Guarús|Campos|Campos|Norte
+Guaxindiba|São Gonçalo|São Gonçalo|Sul
+Icaraí|Niterói|Niterói|Sul
+Iguaba|Araruama|Lagos|Norte
+Ilha Grande|Angra dos Reis|Sul|Sul
+Imboassica|Macaé|Macaé|Norte
+Ingá|Niterói|Niterói|Sul
+Inoã|Niterói|Niterói|Sul
+Itaipava|Petrópolis|Serrana|Sul
+Italva|Itaperuna|Noroeste|Norte
+Itamaratí|Petrópolis|Serrana|Sul
+Itambi|São Gonçalo|São Gonçalo|Sul
+Itaorna|Angra dos Reis|Sul|Sul
+Itaperuna|Itaperuna|Noroeste|Norte
+Itatiaia|Resende|Sul|Sul
+Jacuacanga|Angra dos Reis|Sul|Sul
+Macabú|Macaé|Macaé|Norte
+Macaé|Macaé|Macaé|Norte
+Mambucaba|Angra dos Reis|Sul|Sul
+Maria Paula|Niterói|Niterói|Sul
+Maricá|Niterói|Niterói|Sul
+Mombaça|Campos|Campos|Norte
+Muriqui|Angra dos Reis|Sul|Sul
+Natividade|Itaperuna|Noroeste|Norte
+Neves|São Gonçalo|São Gonçalo|Sul
+Nossa Senhora da Ajuda|Macaé|Macaé|Norte
+Palatinato|Petrópolis|Serrana|Sul
+Parada Angélica|Magé|Magé|Sul
+Parada Modelo|Magé|Magé|Sul
+Piratininga|Niterói|Niterói|Sul
+Pontinha|Campos|Campos|Norte
+Portão do Rosa|São Gonçalo|São Gonçalo|Sul
+Porto do Carro|Cabo Frio|Lagos|Norte
+Retiro Saudoso|Resende|Sul|Sul
+Rio Bonito|São Gonçalo|São Gonçalo|Sul
+Rio da Cidade|Petrópolis|Serrana|Sul
+Rio das Ostras|Macaé|Macaé|Norte
+Santa Clara|Campos|Campos|Norte
+Santa Cruz da Serra|Magé|Magé|Sul
+Santo Antônio de Pádua|Pádua|Noroeste|Norte
+São Fidélis|Pádua|Noroeste|Norte
+São Lourenço|Niterói|Niterói|Sul
+São Pedro da Aldeia|Cabo Frio|Lagos|Norte
+Saturnino Braga|Campos|Campos|Norte
+Sete Pontes|Niterói|Niterói|Sul
+Silva Jardim|Araruama|Lagos|Norte
+Tamoios|Cabo Frio|Lagos|Norte
+Tanguá|São Gonçalo|São Gonçalo|Sul
+Teresópolis|Teresópolis|Serrana|Sul
+Trombetas|Teresópolis|Serrana|Sul
+Ururaí|Campos|Campos|Norte
+Val de Palmas|Cantagalo|Noroeste|Norte
+Venda das Pedras|São Gonçalo|São Gonçalo|Sul
+Vila Nova|Campos|Campos|Norte
+Vila Verde|Macaé|Macaé|Norte
+Zona Sul|Niterói|Niterói|Sul

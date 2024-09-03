@@ -1,0 +1,79 @@
+Conjunto|DEC|FEC
+Alcântara|8|6
+Angra dos Reis|10|7
+Araruama|7|4
+Areal|11|8
+Arraial do Cabo|9|6
+Arsenal|10|7
+Augusto Vieira|11|8
+Bacaxá|9|4
+Barracão dos Mendes|22|12
+Bingen|8|7
+Bom Jardim|13|8
+Búzios|8|6
+Cabiúnas|13|8
+Cabo Frio|7|4
+Cachoeira de Macacú|9|7
+Campos Elíseos|10|7
+Conceição de Macabú|12|9
+Cruzamento|9|7
+Distribuidora de Campos|6|3
+Entroncamento Araruama|7|4
+Galo Branco|6|4
+Goitacazes|9|7
+Guarús|12|8
+Guaxindiba|10|7
+Icaraí|5|4
+Iguaba|7|5
+Ilha Grande|124|30
+Imboassica|7|6
+Ingá|5|4
+Inoã|9|7
+Itaipava|9|7
+Italva|10|7
+Itamaratí|8|6
+Itambi|9|7
+Itaorna|9|7
+Itaperuna|9|7
+Itatiaia|9|7
+Jacuacanga|10|8
+Macabú|14|9
+Macaé|9|7
+Mambucaba|9|8
+Maria Paula|9|7
+Maricá|10|7
+Mombaça|9|6
+Muriqui|11|8
+Natividade|13|9
+Neves|7|6
+Nossa Senhora da Ajuda|9|6
+Palatinato|7|6
+Parada Angélica|9|6
+Parada Modelo|10|7
+Piratininga|8|6
+Pontinha|12|8
+Portão do Rosa|10|6
+Porto do Carro|11|6
+Retiro Saudoso|8|6
+Rio Bonito|9|6
+Rio da Cidade|10|8
+Rio das Ostras|9|6
+Santa Clara|16|10
+Santa Cruz da Serra|7|6
+Santo Antônio de Pádua|10|6
+São Fidélis|11|8
+São Lourenço|6|4
+São Pedro da Aldeia|10|6
+Saturnino Braga|15|9
+Sete Pontes|7|5
+Silva Jardim|12|8
+Tamoios|10|7
+Tanguá|8|7
+Teresópolis|10|8
+Trombetas|7|4
+Ururaí|12|8
+Val de Palmas|11|8
+Venda das Pedras|9|6
+Vila Nova|14|9
+Vila Verde|10|8
+Zona Sul|9|7
