@@ -1,7 +1,6 @@
 pandas
 numpy
 streamlit
-os
 warnings
 plotly.express
 datetime
