@@ -10,7 +10,7 @@ import calendar
 warnings.filterwarnings('ignore')
 
 usuario = os.getlogin()
-diretorio = f'C:\\Users\\{usuario}\\OneDrive - NTT DATA EMEAL\\Escritorio\\PEM_NPEM DEC-FEC\\'
+#diretorio = f'C:\\Users\\{usuario}\\OneDrive - NTT DATA EMEAL\\Escritorio\\PEM_NPEM DEC-FEC\\'
 data_atualizacao_str = "02/09/2024"
 data_atualizacao = datetime.strptime(data_atualizacao_str, "%d/%m/%Y") # Converte a string de data para um objeto datetime
 dia = data_atualizacao.day
